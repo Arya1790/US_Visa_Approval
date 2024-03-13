@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 artifact/*
 variables.md
+t.py
+train.yaml
