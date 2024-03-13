@@ -14,7 +14,7 @@ MODEL_FILE_NAME = "model.pkl"
 
 TARGET_COLUMN = "case_status"
 CURRENT_YEAR = date.today().year
-PREPROCSSING_OBJECT_FILE_NAME = "preprocessing.pkl"
+PREPROCSSING_OBJECT_FILE_NAME = "preprocessing.pkl"   
 
 FILE_NAME: str = "usvisa.csv"
 TRAIN_FILE_NAME: str = "train.csv"
